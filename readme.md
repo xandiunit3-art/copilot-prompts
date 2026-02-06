@@ -1,110 +1,92 @@
-<!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-      width="100px" 
-    />
-    <h1>Título do Curso ou Projeto</h1>
-  </p>
-</div>
-<!--END_SECTION:header-->
+# Formação Inteligência Artificial Generativa – DIO
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
+## 📌 Apresentação do Projeto
 
-</p>
+Este repositório faz parte de um trabalho do curso **Formação Inteligência Artificial Generativa**, realizado na plataforma DIO, com o objetivo de planejar uma **transição de carreira para a profissão de Especialista em IA Criativa aplicada à criação de conteúdo digital**.
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
+O projeto reúne um diagnóstico de perfil profissional, um roteiro de estudos e uma visão estruturada das competências necessárias para atuar na área de **Inteligência Artificial Generativa voltada à criação de produtos e conteúdos digitais**.
 
-<br/>
-<br/>
+---
 
-## 💻 Sobre o Projeto
+## 🧩 Diagnóstico de Perfil (Entrevista Inicial)
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+**O que mais me atrai em tecnologia:**  
+- Criar produtos digitais e soluções inovadoras com Inteligência Artificial  
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+**Experiência prévia em tecnologia:**  
+- Iniciante (sem experiência formal na área)  
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+**Disponibilidade de estudo:**  
+- 12 horas por semana  
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+**Preferência de trabalho:**  
+- Lidar com pessoas e dados  
 
-- _Exemplo_:
+**Objetivo profissional:**  
+- Fazer transição de carreira para a área de IA Criativa  
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+**Interesses técnicos:**  
+- Inteligência Artificial  
+- Criação de conteúdos (vídeos, imagens e projetos digitais)  
 
-- [Outros pré-requisitos, se aplicável]
+**Experiência prévia relevante:**  
+- Canal pequeno no YouTube, utilizado como laboratório prático para projetos de IA Criativa  
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+---
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+## 📅 Plano de Estudos para a Carreira de Especialista em IA Criativa (Resumo)
 
-- [Lista das habilidades principais a serem desenvolvidas]
+O plano foi estruturado em um **roadmap de 90 dias**, adaptado para **12 horas semanais**, com foco na formação prática de um Especialista em IA Criativa.
 
-  - [Subhabilidades relacionadas, se aplicável]
+### 🔹 Mês 1 – Fundamentos
+- Conceitos básicos de Inteligência Artificial e Machine Learning  
+- Introdução à IA Generativa  
+- Prompt Engineering  
+- Criação de imagens e vídeos com IA  
 
-- _Exemplo_:
-  - Java
-    - Api Rest
+### 🔹 Mês 2 – Prática
+- Automação de criação de conteúdo digital com IA  
+- Python básico aplicado à IA  
+- Desenvolvimento de projetos criativos com ferramentas de IA  
 
-## 🎯 Objetivos e Resultados Esperados
+### 🔹 Mês 3 – Portfólio e Preparação
+- Desenvolvimento de um projeto profissional de IA Criativa  
+- Publicação em GitHub e YouTube  
+- Simulação de entrevistas técnicas para a área de IA  
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+---
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+## 🧠 Experiência Necessária para o Curso e para a Profissão
 
-<!--START_SECTION:footer-->
+Para acompanhar o curso e se preparar para atuar como **Especialista em IA Criativa**, são recomendadas as seguintes competências:
 
-<br />
-<br />
+- Conhecimentos básicos de informática e internet  
+- Noções iniciais de lógica de programação (Python é um diferencial)  
+- Interesse em criação de conteúdo digital e produtos tecnológicos  
+- Habilidade de pesquisa e aprendizagem autodidata  
+- Organização para seguir um plano de estudos contínuo  
 
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
+---
+
+## 🎓 O Que Esperar de Aprendizado ao Final do Curso
+
+Ao concluir o roteiro e os projetos propostos, espera-se adquirir:
+
+- Fundamentos sólidos de Inteligência Artificial Generativa  
+- Capacidade de criar conteúdos automatizados com IA (textos, imagens e vídeos)  
+- Domínio básico de Prompt Engineering profissional  
+- Noções práticas de Python aplicadas à IA  
+- Desenvolvimento de um portfólio técnico especializado na carreira de IA Criativa  
+- Preparação para atuar em projetos e oportunidades profissionais na área  
+
+---
+
+## 🚀 Vantagens no Mercado de Trabalho
+
+A profissão de **Especialista em IA Criativa** apresenta crescimento acelerado e diversas oportunidades, como:
+
+- Atuação em marketing digital, educação, mídia e startups  
+- Possibilidade de trabalho remoto e internacional  
+- Alto potencial de inovação e empreendedorismo digital  
+- Diferencial competitivo em criação de produtos digitais e automação de conteúdo  
+- Forte demanda por profissionais que combinam criatividade, dados e tecnologia
